@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/PENGMIAO0236/Java%20Pipeline%20test%20-%20Create%20your%20first%20pipeline/_apis/build/status%2FNSP-Peng-Miao.pipelines-java?branchName=main)](https://dev.azure.com/PENGMIAO0236/Java%20Pipeline%20test%20-%20Create%20your%20first%20pipeline/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
